@@ -177,7 +177,7 @@ header .container .col-md-7 h1 {
 .cover {
     width: 100%;
     height: 55vmin;
-    background: url("/assets/sky.webp");
+    background-image: url("../assets/sky.jpg");
     background-position: -24rem -19rem;
     background-size: 150%;
     position: relative;
